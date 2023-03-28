@@ -1,0 +1,605 @@
+token 
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoiUGI1dGRtRUZCTEhld2FqekRqOWFJVlB0TVd6NHZqYXhrM1ozNmhPazd4UnpUeUtTMUo2eHdIRkR2ZDI3WmlvNyIsImV4cCI6MTY3ODUwMDYwOX0.dh_JTFRuyI89wZ9X2h8AehLJMfvA8RiI5IFm95Z2FJFZkvtWYUHSmbcK7RwOxLcTYJ5uzhPbRr_V557weucQkUbS_gAaqU-2QZAT_zXUKxB0o_4Pc2KTBKb-b516Vg89KOwl7OUE2GulFNlRwSQsgxgwoJPPzTE9lf2xxOom0cH5vfYxmbLOPUg6xn22vWW3jfuJ083-gu2s215GScPa2HsA5sw7BjfIJKLETVabsXkbtIjFkbBcD0iZ28vTp6sQ0DoosTm0PtYlbkkWaJtgzRkJJTOiBiTQfoZvUEZ7glARvBQIcumpQdcyr2gVIN7ZFYFJN235PvRXNyChciE9uw"
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoiUlZuSUFnRVFuZW9oSXRqMGNCaDNKQjkxRFZZcnlpZ2lDTU9sS05WalhnNkJJT2VvalpZU3Z3eENXeDVsTnN1aiIsImV4cCI6MTY3ODUwNDUyMn0.eeWIxzS8I-LTOWAVvnVz7K9YaErX_AuHIBHnnpj0Nm27FglM90oAv9-nsMDBqbi4KUhBFXU2BbcfrUM-T15WlRlN2o55hd2GpvvAcTt6VscdVqJbJ3o0K_PGXjdhtDq9sUZxzSdS9QHqr_wvfD3qySoVKfX3SN_mNFLk3RWndn4gWDN44rGGyFBj1wz6aOqyK6-CC5LWE3ihSzy8XAV7576XDOwseB6VZUfle2mlbEnsW6f-Uz86SdlTn7bUx236wcTHvuTsR2VUw3LAvGFTNVFZm0Bwg66pwYq-AI4WxUgbqgMCPUCrrjkZ1kbBZ_uMlWxfyeWZJoJIPJWKRMH_8w"
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA"
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA"
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA"
+"eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA"
+
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/photoscene'
+  -X 'POST'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+  -d 'scenename=imgDeInternet'
+  -d 'format=object'
+  -d 'metadata_name[0]=targetcs'
+  -d 'metadata_value[0]=UTM84-32N'
+primera respuesta creando photoscene 
+{
+    "Usage": "0.73645401000977",
+    "Resource": "/photoscene",
+    "Photoscene": {
+        "photosceneid": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo"
+    }
+//
+sqD3q0eTVh9zIfor1KubNigQ3GPxkFwkpxykHl0rMFA // final
+yDWEVzc7trYMufrVwFjAfQUgVZf0NxPLMuCAgvwV2OQ // test 3
+XWA5VrWjP3yxn1N5EsfYRMyX75WRL3qlk5e2FKmyUO4 // 27 img
+GB7fnhVfLJFqV1J1O1tXSct5T2M4F0Xe6l62A9lhWD4// otro intento 
+wdlOhmQDORWqRDS2dZZrCdUypP0R7BUP6LYIwqowMtQ // 3
+yYCFlc8WdwiEXxWcn4uEl1CPeCyp1U8NVaQdXUNSQPU// img de internet 
+JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo
+////////////////////////////////////
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/file'
+  -X 'POST'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+  -F "photosceneid=JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo"
+  -F "type=image"
+  -F "file[0]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/01.JPG"
+  -F "file[1]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/02.JPG"
+  -F "file[2]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/03.JPG"
+  -F "file[3]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/04.JPG"
+  -F "file[4]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/05.JPG"
+  -F "file[5]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/06.JPG"
+  -F "file[6]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/07.JPG"
+  -F "file[7]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/08.JPG"
+  -F "file[8]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/09.JPG"
+  -F "file[9]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/10.JPG"
+  -F "file[10]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/11.JPG"
+  -F "file[11]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/12.JPG"
+  -F "file[12]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/13.JPG"
+  -F "file[13]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/14.JPG"
+  -F "file[14]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/15.JPG"
+  -F "file[15]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/16.JPG"
+  -F "file[16]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/17.JPG"
+  -F "file[17]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/18.JPG"
+  -F "file[18]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/19.JPG"
+  -F "file[19]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/20.JPG"
+  -F "file[20]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/21.JPG"
+  -F "file[21]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/22.JPG"
+  -F "file[22]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/23.JPG"
+  -F "file[23]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/24.JPG"
+  -F "file[24]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/25.JPG"
+  -F "file[25]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/26.JPG"
+  -F "file[26]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/27.JPG"
+  -F "file[27]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/28.JPG"
+  -F "file[28]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/29.JPG"
+  -F "file[29]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/30.JPG"
+  -F "file[30]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/31.JPG"
+  -F "file[31]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/32.JPG"
+  -F "file[32]=https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/33.JPG"
+ 
+  ////////////////////////////////////
+  -F "file[0]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/01.jpg"
+  -F "file[1]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/02.jpg"
+  -F "file[2]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/03.jpg"
+  -F "file[3]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/04.jpg"
+  -F "file[4]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/05.jpg"
+  -F "file[5]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/06.jpg"
+  -F "file[6]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/07.jpg"
+  -F "file[7]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/08.jpg"
+  -F "file[8]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/09.jpg"
+  -F "file[9]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/10.jpg"
+  -F "file[10]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/11.jpg"
+  -F "file[11]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/12.jpg"
+  -F "file[12]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/13.jpg"
+  -F "file[13]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/14.jpg"
+  -F "file[14]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/15.jpg"
+  -F "file[15]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/16.jpg"
+  -F "file[16]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/17.jpg"
+  -F "file[17]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/18.jpg"
+  -F "file[18]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/19.jpg"
+  -F "file[19]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/20.jpg"
+  -F "file[20]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/21.jpg"
+  -F "file[21]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/22.jpg"
+  -F "file[22]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/23.jpg"
+  -F "file[23]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/24.jpg"
+  -F "file[24]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/25.jpg"
+  -F "file[25]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/esponja/26.jpg"
+
+////////////////////
+  -F "file[0]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/01.jpg"
+  -F "file[1]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/02.jpg"
+  -F "file[2]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/03.jpg"
+  -F "file[3]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/04.jpg"
+  -F "file[4]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/05.jpg"
+  -F "file[5]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/06.jpg"
+  -F "file[6]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/07.jpg"
+  -F "file[7]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/08.jpg"
+  -F "file[8]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/09.jpg"
+  -F "file[9]=https://raw.githubusercontent.com/FreitesGuillermo/pilot/main/imgtasa/10.jpg"
+  //////////////
+  -F "file[0]=@file:///C:/img/01.jpg"
+  -F "file[1]=@file:///C:/img/02.jpg"
+  -F "file[2]=@file:///C:/img/03.jpg"
+  -F "file[3]=@file:///C:/img/04.jpg"
+  -F "file[4]=@file:///C:/img/05.jpg"
+  -F "file[5]=@file:///C:/img/06.jpg"
+  -F "file[6]=@file:///C:/img/07.jpg"
+  -F "file[7]=@file:///C:/img/08.jpg"
+  -F "file[8]=@file:///C:/img/09.jpg"
+  -F "file[9]=@file:///C:/img/10.jpg"
+ ///////////////////// 
+ https://gitlab.com/photogrammetry-test-sets/dice-turntable-strong-lights-heavily-textured-w-watercolors/-/raw/master/33.JPG
+
+
+
+  //////////////////
+  respuesta file
+
+{
+    "Usage": "2.9964718818665",
+    "Resource": "/file",
+    "photosceneid": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+    "Files": {
+        "file": [
+            {
+                "filename": "01.jpg",
+                "fileid": "DSJ0ybw041JR8HxPhFUz5eSqcEYakWs3ZVNZbCgbV4s=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "177883",
+                "msg": "No error"
+            },
+            {
+                "filename": "02.jpg",
+                "fileid": "WSCyvkPiWvSKoTP4cSbFxaAXjue4XB9NbpNyyshgUf0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "145369",
+                "msg": "No error"
+            },
+            {
+                "filename": "03.jpg",
+                "fileid": "m9AEBde6TuEDbAUkbzDJObPCVsjbYlirUBy8gdROZQY=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "172665",
+                "msg": "No error"
+            },
+            {
+                "filename": "04.jpg",
+                "fileid": "dRjLCcuHpsCc9NDx8E1d11DdrZyU2Qfksc53SmGaFKs=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "162488",
+                "msg": "No error"
+            },
+            {
+                "filename": "05.jpg",
+                "fileid": "Uh9dpTQ3R9zQjsRNRL0vzDrxtsGLUB9yxp2Lz9OYrf0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "183941",
+                "msg": "No error"
+            },
+            {
+                "filename": "06.jpg",
+                "fileid": "TzfOZNTTOk1nY5DbZbfF9aTIpePPXIvPCmvpKWjjEmE=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "181737",
+                "msg": "No error"
+            },
+            {
+                "filename": "07.jpg",
+                "fileid": "Dq0dqCE2PoRvGzpThsYCwFaYlBXNwzvtkBxPO5Pj1js=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "171296",
+                "msg": "No error"
+            },
+            {
+                "filename": "08.jpg",
+                "fileid": "WgBT3bexX5r9PKcqvrkOG3BCDPP1PDnmdAHYK7YPFiM=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "180135",
+                "msg": "No error"
+            },
+            {
+                "filename": "09.jpg",
+                "fileid": "hFkKUMt3zqSw8DEpfHNZ1dV42HNQTXrZRTYf0nNvpmk=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "157308",
+                "msg": "No error"
+            },
+            {
+                "filename": "10.jpg",
+                "fileid": "PnsLmeh2WGIUdPMveZ5DJ9WZyTrKAwkYHDX7mcv21VU=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                "filetype": "image",
+                "filesize": "180869",
+                "msg": "No error"
+            }
+        ]
+    }
+}
+
+///////////////procesar una foto escena 
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo'
+  -X 'POST'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+
+////////////////////////respuesta
+
+{
+    "Usage": "0.50046396255493",
+    "Resource": "/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+    "Photoscene": {
+        "photosceneid": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo"
+    },
+    "msg": "No error"
+}
+PROGRESO DEL PROCESAMIENTO PHOTOSCENA
+/////////////
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo/progress'
+  -X 'GET'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+
+
+  ////////////////respuesta
+{
+    "Usage": "0.560711145401",
+    "Resource": "/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo/progress",
+    "Photoscene": {
+        "photosceneid": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+        "progressmsg": "ERROR",
+        "progress": "100"
+    }
+}
+}
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo?format=rcm'
+  -X 'GET'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+
+forge.help@autodesk.com
+https://developer.api.autodesk.com/photo-to-3d/v2/photoscene/:photosceneid/properties
+
+curl -v 'https://developer.api.autodesk.com/photo-to-3d/v1/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo/properties'
+  -X 'GET'
+  -H 'Authorization: Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IlU3c0dGRldUTzlBekNhSzBqZURRM2dQZXBURVdWN2VhIiwicGkuYXRtIjoiN3ozaCJ9.eyJzY29wZSI6WyJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiLCJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiXSwiY2xpZW50X2lkIjoiNUlMNXRxanFFZ2JLSjR1NjFqVXZzY2lsdWZzeUF6SUIiLCJhdWQiOiJodHRwczovL2F1dG9kZXNrLmNvbS9hdWQvYWp3dGV4cDYwIiwianRpIjoic01qbTB4VWhZNVR0RVJGd0tTTzhOUmlIdEdGUXViNXl0dWkzR1hiSXhNS215b1VsTmthTGh2Y2tzdjd1Y0xXNSIsImV4cCI6MTY3OTMyMjU2M30.XQQBFtXA3oNTSGd17FwKjinYPkQ7Mx2uQzDj3_RkLBpt3a_AivkS6dM395RmH_XNaPZhLjk6tYN2XzZOcGVylHUllTpEoN4Ixg9rdsVMpCF9ukJfQbb1acoWNjjQQh2pr-6xa7tGcucyJ7Lm0EfYDPSLYWATSX3UsYrtXIUueExBXUItVvJSgDKVxKEyOKEtQ4jbtKDJlyNCMCtl36qc8_SBBfgDgJltBCXFHRQdHYQBdPCoWN6rUHDjpqG0vpNRjSTmDZOO7Ddg1bZgxypHGh3oNSaQXGDrEuqO7INP9LXDYrsSJCVAuPgOan8-YpSzz59OR9XoyWy9RxZmu-0PlA'
+
+///////////////
+
+ "Usage": "0.62475204467773",
+    "Resource": "/photoscene/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo/properties",
+    "next_token": {},
+    "Photoscenes": {
+        "Photoscene": {
+            "photosceneid": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+            "progress": "100",
+            "workerStatus": "ERROR",
+            "type": "all",
+            "userID": "D2EHqT53A1lYq0RAJfg1LnxY7ISHDz9mjAB48dCzDP8=",
+            "nbShots": "000026",
+            "convertStatus": "ERROR",
+            "projectID": "JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+            "convertFormat": "fbx,nwc,rcm",
+            "KPStatus": "ERROR",
+            "creationDate": "2023-03-11T22:32:10",
+            "name": "tests26",
+            "error_msg_id": "262",
+            "targetcs": "UTM84-32N",
+            "scenetype": "aerial",
+            "gpstype": "regular",
+            "thumbnail": "https://adsk-rc-photofly-prod.s3.amazonaws.com/3.0.0/THUMBNAIL/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo.jpg?response-content-disposition=attachment%3B%20filename%3DJNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo.jpg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDMScqbC56lmMPOCqvyN4XnVaaEgMq9zZXLsQmFLVHZJQIgMoScg2bUIdyN2djz6mYoBq7pTF9UdzuXqj0qAtyMtBAqvAUImP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0MzY5MDc0MzgyMzYiDLZFDKdpun1IW0J9LiqQBYINin3k00rlqTeLZE%2BUR8s78n%2B3301WP%2BVhaQYfPLgbfdUkHZ3vpU59%2B%2BDy1AByqjQSuTwQP52QeVldWo%2BIIE8cknoTE8vkUsMFmOwjrtcwqt4qAehu4Aa5OlzThdu%2BkdAvq41rLu2NuUEn9wn1F9zYudfQlPGAQpSPhR8ZXRKGrnYVUQdNVUFK3xnt26jb374PbcbpQ8VXxRboPGGiw5cGg0679tLLU8IhLZn9hMxXGgXB1dEKXhAekphuAWhXbBd1jXoIVd%2FYWkmvTUWGAWDANqz3ODKzU%2FoRyvql%2BvvEomFVvb2ojKyhAulM%2FtDveI%2BnYiqokIgl3eQqDqXXAiyPnTX4IB%2F8EsVmsuhjfb1zsVlNDyM9S0WmQv23kHp75HMwj19N8G4336vt676Ns1Ayv9zgK2IWXh%2F3qinOlx19LWsLQWrJxOW8bNQWej0Os6tj6m4JmsdRbfEKD4cCs9bCM%2B6ngoubg7Kga1JKCzhLoO4BGKmXK8eRB%2BhIPtX3VXFSgxxwrjmxdskLg9EG29ljxhHo1wYIw2RIDiPECHFKYniEHhbjVnBWaE1zME71iCGObmnbzaj0N4ZIqEECTuyOHsZNIEaqMsmTBapeyT3kYNH9QU6dR1lU4w1BnGm79pntAt0Bml7ZEo9sIUBMQDup1cVbGOlZ5ecU%2FQd8PbweZ11Y5f0bx%2BEEHTQYo3XRfZ%2BuS%2BIk%2FQUxv6jrqfjBaSH2LDsKf0lpU%2B2%2BZmzZeJkUstl5e2%2FZkxPgl7%2BlssVdHuw%2FAzwz0QeSexImFHF5%2BbdMKx0x973o%2FZyrqHSAaQXH%2FVKqCwr2EzQJdt9j%2FyNMN6qv22iUY0f0pfUDrpBTJ7f66GKa5oiukHhUkGaHU2PsMNiGtKAGOrEBPFqL9ysCXF6LX10Y%2FUgig24VuCRom92BpmAyDUqCq4f1klLjeKD30SlwGxcft8710GOmqzoVErpPWCBhK86%2Bi6uDvrYxXD0lY9dextV0gxi%2B%2BC4KSC9RBBFZqA%2BiYmE60Ydf1MpeVMrOkLjUeXGhuCna76lxGAriAYahJ2LcwIdfzR%2Bg1WZRLZXOv%2BJ%2B%2BysMb0xVIu07%2FE64i79TBob5ajYoipGTmLQ%2FTosSXux2uKDl&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAWLONWOCOKPKGINCW%2F20230311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230311T230952Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=7a537e69f52525970ade562a996646e00f67f43bcc011f4bb3d26ab67120fcb5",
+            "status": "ERROR",
+            "Files": {
+                "file": [
+                    {
+                        "@attributes": {
+                            "pos": "000021"
+                        },
+                        "key": "EYea/VZUw/vI9t/Wg1t/3i1J/lmPk/jaLy/evTV/naPE/2JtD/Ylk=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "EYeaVZUwvI9tWg1t3i1JlmPkjaLyevTVnaPE2JtDYlk=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "21.jpg",
+                        "filesize": "152102",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000025"
+                        },
+                        "key": "b0S5/XpOZ/zPLP/E29J/mobJ/lw5s/SKOj/OPHu/XNQG/P9cX/DP0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "b0S5XpOZzPLPE29JmobJlw5sSKOjOPHuXNQGP9cXDP0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "25.jpg",
+                        "filesize": "79664",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000004"
+                        },
+                        "key": "cJLJ/TKWN/Ke9A/5Tvg/4jKp/bfJQ/HiSV/PhOF/FkDm/zkXE/x98=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "cJLJTKWNKe9A5Tvg4jKpbfJQHiSVPhOFFkDmzkXEx98=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "04.jpg",
+                        "filesize": "83081",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000012"
+                        },
+                        "key": "7ND2/xwL3/AXaI/BV8g/oENR/UGIB/pMtl/iuEu/yKpq/WV2K/HwY=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "7ND2xwL3AXaIBV8goENRUGIBpMtliuEuyKpqWV2KHwY=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "12.jpg",
+                        "filesize": "93106",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000010"
+                        },
+                        "key": "nRdP/npG4/77GX/bOTa/1726/mhn3/xR14/4ZHE/QVvK/v2DD/oUc=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "nRdPnpG477GXbOTa1726mhn3xR144ZHEQVvKv2DDoUc=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "10.jpg",
+                        "filesize": "99155",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000019"
+                        },
+                        "key": "pPmP/WiJE/4zsF/yoU5/PnDw/mYF1/Z0wQ/i9PN/r6I0/8P1q/kNI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "pPmPWiJE4zsFyoU5PnDwmYF1Z0wQi9PNr6I08P1qkNI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "19.jpg",
+                        "filesize": "112456",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000024"
+                        },
+                        "key": "SrSK/v4pM/vmRu/wsvs/45Ti/Jxcj/SUp0/MfL1/7xNz/xlUL/hPc=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "SrSKv4pMvmRuwsvs45TiJxcjSUp0MfL17xNzxlULhPc=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "24.jpg",
+                        "filesize": "91147",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000023"
+                        },
+                        "key": "Igv0/GDga/qizO/W20k/oQTW/LQcO/NAjb/OWPN/AUME/jcyN/jPA=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "Igv0GDgaqizOW20koQTWLQcONAjbOWPNAUMEjcyNjPA=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "23.jpg",
+                        "filesize": "119039",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000013"
+                        },
+                        "key": "dEC1/Sq9G/Ls9U/x3qy/VBhc/CO6P/ecZn/2QEb/DTAS/nakH/hB8=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "dEC1Sq9GLs9Ux3qyVBhcCO6PecZn2QEbDTASnakHhB8=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "13.jpg",
+                        "filesize": "117432",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000022"
+                        },
+                        "key": "OO4A/ruvJ/yT9T/rExh/q06F/8Sz6/xRCo/ikYn/5He6/rFSV/8fU=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "OO4AruvJyT9TrExhq06F8Sz6xRCoikYn5He6rFSV8fU=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "22.jpg",
+                        "filesize": "139003",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000007"
+                        },
+                        "key": "0130/3bP1/Ab7I/21XJ/KOHG/iUqk/nbMT/QXSL/Fcbw/PImS/D9o=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "01303bP1Ab7I21XJKOHGiUqknbMTQXSLFcbwPImSD9o=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "07.jpg",
+                        "filesize": "120889",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000020"
+                        },
+                        "key": "UQv9/knfX/RnpJ/p7cJ/pcYS/RrXs/qFFk/9CAy/YpMI/C244/9N8=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "UQv9knfXRnpJp7cJpcYSRrXsqFFk9CAyYpMIC2449N8=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "20.jpg",
+                        "filesize": "80679",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000008"
+                        },
+                        "key": "HBJY/PR06/8t0A/q4Pb/pyb1/TMjA/w0Zk/Fh5r/KN3c/DSr0/Kvo=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "HBJYPR068t0Aq4Pbpyb1TMjAw0ZkFh5rKN3cDSr0Kvo=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "08.jpg",
+                        "filesize": "109498",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000014"
+                        },
+                        "key": "4iUA/oD1E/t1XK/EAZd/TbtL/uw9r/9PlN/PeYD/qT2O/ZkQ9/I5Q=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "4iUAoD1Et1XKEAZdTbtLuw9r9PlNPeYDqT2OZkQ9I5Q=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "14.jpg",
+                        "filesize": "69084",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000002"
+                        },
+                        "key": "ODFW/Ybi8/TmFs/p7Kw/9Wf9/YUKg/tnzn/jULF/61uL/vwCe/ZLI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "ODFWYbi8TmFsp7Kw9Wf9YUKgtnznjULF61uLvwCeZLI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "02.jpg",
+                        "filesize": "146601",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000018"
+                        },
+                        "key": "qaji/EM0z/5cZP/lwQR/3SSc/HTQc/D0Gi/anbp/YKla/TBfc/DDg=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "qajiEM0z5cZPlwQR3SScHTQcD0GianbpYKlaTBfcDDg=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "18.jpg",
+                        "filesize": "58097",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000006"
+                        },
+                        "key": "w6gp/OINX/lEkY/7CTb/q38z/D0u3/rTyG/f1vz/M6JH/5BcS/6bI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "w6gpOINXlEkY7CTbq38zD0u3rTyGf1vzM6JH5BcS6bI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "06.jpg",
+                        "filesize": "125215",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000016"
+                        },
+                        "key": "BQiA/Aycl/fiMi/8Fc4/L7eI/PeOB/h9KE/RpAD/J02d/CpcI/PZs=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "BQiAAyclfiMi8Fc4L7eIPeOBh9KERpADJ02dCpcIPZs=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "16.jpg",
+                        "filesize": "87432",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000005"
+                        },
+                        "key": "QTin/pofj/0VTD/9oaK/5vcB/EE9l/Ffhd/qVJH/bcY6/22qN/v2M=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "QTinpofj0VTD9oaK5vcBEE9lFfhdqVJHbcY622qNv2M=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "05.jpg",
+                        "filesize": "99476",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000015"
+                        },
+                        "key": "xy9e/XERl/Mdo6/fw58/SAK9/n5xk/lHc7/UDcy/HvYL/uBNr/4DI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "xy9eXERlMdo6fw58SAK9n5xklHc7UDcyHvYLuBNr4DI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "15.jpg",
+                        "filesize": "99101",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000011"
+                        },
+                        "key": "exqS/lGDI/SCj8/bPfH/ZoUr/g9cT/yjUj/u9sU/J1mv/cymB/hOI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "exqSlGDISCj8bPfHZoUrg9cTyjUju9sUJ1mvcymBhOI=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "11.jpg",
+                        "filesize": "104546",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000017"
+                        },
+                        "key": "xtXM/GNSm/GJbz/9cO0/XBhN/eGmC/PrGa/M5PO/q1gM/kMNc/YVE=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "xtXMGNSmGJbz9cO0XBhNeGmCPrGaM5POq1gMkMNcYVE=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "17.jpg",
+                        "filesize": "57989",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000003"
+                        },
+                        "key": "HgL1/KG2f/BaEz/cnpu/JCza/PYWM/7U8S/W3rd/K1Ao/U1jc/djs=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "HgL1KG2fBaEzcnpuJCzaPYWM7U8SW3rdK1AoU1jcdjs=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "03.jpg",
+                        "filesize": "148838",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000009"
+                        },
+                        "key": "393Z/5MB0/y3z2/71Od/469Q/hXOB/1hmt/JZXk/P2Q5/h25K/Ht0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "393Z5MB0y3z271Od469QhXOB1hmtJZXkP2Q5h25KHt0=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "09.jpg",
+                        "filesize": "119869",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000001"
+                        },
+                        "key": "JWYT/WrjE/CUw1/uaog/uDey/1Wu6/mmTb/jSdV/9zsR/3Blh/QL4=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "JWYTWrjECUw1uaoguDey1Wu6mmTbjSdV9zsR3BlhQL4=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "01.jpg",
+                        "filesize": "87055",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    },
+                    {
+                        "@attributes": {
+                            "pos": "000026"
+                        },
+                        "key": "PYCn/yBKw/W9mZ/RsAo/KXJs/MwJr/1mSz/x8b8/dmKb/rFms/31o=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "fileid": "PYCnyBKwW9mZRsAoKXJsMwJr1mSzx8b8dmKbrFms31o=-JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo",
+                        "filename": "26.jpg",
+                        "filesize": "139721",
+                        "type": "image",
+                        "subtype": {},
+                        "ancestor": {}
+                    }
+                ],
+                "fileNotImage": {
+                    "key": "3.0.0/IN/Lcmf3Z7onb12tBWwZdt3Rr6FtH9y6S3sI36hcsrx4ak=/JNrryZ2tfQe2P11LYVJYuNnJjoDTdtwlV2W9q9tbYmo-IN.3dp",
+                    "fileid": {},
+                    "filename": {},
+                    "filesize": "3084",
+                    "type": "project",
+                    "subtype": "100",
+                    "ancestor": {}
+                }
+            }
+        }
+    }
+}
